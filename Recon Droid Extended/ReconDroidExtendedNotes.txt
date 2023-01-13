@@ -20,4 +20,4 @@ Implemented world model for the Drone Kit
 
 TODO: Maximum transmission range, with visual cues when approaching limit.
 TODO: Button that makes the drone make a noise.
-FIX: Player gets caught in running-in-place animation loop while piloting, especially when holding Forward and Jump.
+NEEDS FIX: Player gets caught in running-in-place animation loop while piloting, especially when holding Forward and Jump.
