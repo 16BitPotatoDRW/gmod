@@ -1,0 +1,22 @@
+Fixed a null entity error that would occur if your drone was removed while you were piloting it.
+Secondary fire from the drone controller will unlock your movement if your drone no longer exists.
+
+Made the drone a bit slower.
+
+The drone now has health, and can be destroyed by damage.
+
+Implemented world model and view model for the Drone Controller.
+
+The drone now emits idle sounds.
+The drone now makes a loud noise when damaged.
+The drone now makes a comical noise when destroyed.
+
+Holstering the controller will disconnect you from your drone.
+
+Fixed getting stuck if you picked up the drone while piloting it.
+Fixed getting stuck if the drone was removed/destroyed while you were piloting it.
+
+Implemented world model for the Drone Kit
+
+TODO: Maximum transmission range, with visual cues when approaching limit.
+TODO: Button that makes the drone make a noise.
